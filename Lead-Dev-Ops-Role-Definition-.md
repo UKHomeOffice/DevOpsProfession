@@ -105,18 +105,9 @@
 <p>and translate them to into the</p>
 <p>technical design of systems and services.</p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+
 <li><p>Senior business stakeholders to understand their needs and to translate them into stories and designs.</p></li>
-<li></li>
-<li></li>
+
 <li><p>IT Operations/Service Desk to identify, analyse and resolve issues.</p></li>
 <li><p>Software Developers to build the pipeline for pushing out code.</p></li>
 <li><p>Network Architects, Technical Architects and Security Architects (DDaT colleagues and/or third party supplier) to design technical solutions to business problems.</p></li>
@@ -186,8 +177,6 @@
 </tbody>
 </table>
 
-**  
-**
 
 | **Appendix**      |
 | ----------------- | - |
